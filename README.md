@@ -27,6 +27,9 @@ streamlit run app.py
 # 3. Ouvrir http://localhost:8501
 ```
 
+
+Les données sont disponible sur [Data](https://drive.google.com/drive/folders/16-zRT50_HSrU_57VVloy8Ym-5P8DBHDV?usp=sharing) 
+
 Placez vos fichiers Parquet dans `data/` ou uploadez-les directement via l'interface.
 
 ## 🐳 Docker
