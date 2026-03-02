@@ -334,6 +334,7 @@ with st.sidebar:
             data_path = tmp.name
     else:
         for candidate in [
+            "data/firewall_clean.csv"
             "data/clean_logs_nov2025_feb2026.parquet",
             "data/logs_export.parquet",
             "/data/clean_logs_nov2025_feb2026.parquet",
